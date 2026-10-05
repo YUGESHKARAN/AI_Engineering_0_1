@@ -1,6 +1,6 @@
-# Document RAG
+# RAG 0-1.
 
-A mini RAG backend with Flask API for adding documents to Pinecone and performance Q&A task.
+A mini RAG backend built to decouple the fundamental concepts of production RAG architecture for beginners.
 
 ## Project structure
 
