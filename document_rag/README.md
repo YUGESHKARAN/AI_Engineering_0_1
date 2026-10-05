@@ -89,3 +89,5 @@ curl.exe -X PUT "http://localhost:5000/api/rag/documents/doc_001" -F "file=@data
 ### Delete a document
 
 ```powershell
+curl.exe -X DELETE "http://localhost:5000/api/rag/documents/doc_001"
+```
