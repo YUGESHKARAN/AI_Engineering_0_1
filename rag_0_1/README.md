@@ -1,6 +1,6 @@
 # Document RAG
 
-A small Flask API for adding documents to Pinecone and asking questions about their content.
+A mini RAG backend with Flask API for adding documents to Pinecone and performance Q&A task.
 
 ## Project structure
 
